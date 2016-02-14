@@ -42,15 +42,15 @@
 
 
 
-    <!--<resources>-->
-      <!--<resource>-->
-        <!--<directory>src/main/resources</directory>-->
-      <!--</resource>-->
-      <!--<resource>-->
-        <!--<directory>src/main/resources/Lib</directory>-->
-      <!--</resource>-->
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+      </resource>
+      <resource>
+        <directory>src/main/resources/Lib</directory>
+      </resource>
 
-    <!--</resources>-->
+    </resources>
 
     <extensions>
       <extension>
